@@ -1,4 +1,4 @@
-baseurl: distracted-ride-f6805a.netlify.app
+baseurl: https://statsandsports.netlify.app
 languageCode: en-us
 theme: "hugo-theme-stack"
 paginate: 5
